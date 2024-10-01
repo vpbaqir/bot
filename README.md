@@ -62,7 +62,4 @@ bash
  
 npm start
 Access the application: Visit http://localhost:3000 in your browser or API client.
-
-vbnet
- 
-
+open the site in http://localhost:3000 (it is imprtant to set up before setting sunnah main portal to load bot smooothly from the link in main web)
